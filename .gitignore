@@ -1,0 +1,7 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.ipynb_checkpoints
+/.vs
+/Custom Models, Layers, and Loss Functions with TensorFlow/.ipynb_checkpoints
